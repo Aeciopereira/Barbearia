@@ -1,0 +1,2 @@
+# Barbearia
+ pagina estática
